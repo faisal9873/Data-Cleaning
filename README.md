@@ -1,1 +1,2 @@
 # Data-Cleaning
+##This project will examine the first steps to take in cleaning dataset and improving its quality. The dataset in its natural state is like a natural resource that has just been mined and still needs to be processed before meaningful machine learning (ML) models can be trained out of it. The same way resources like metals will need to be purified before products like jewelleries or tools can be made from them. Thus, the accuracy of a ML models depends largely on the quality of data used to train it. 
